@@ -3,7 +3,7 @@
 <repositories xmlns="" version="1.0">
 <repo quality="experimental" status="unofficial">
       <name>vulkano-edge</name>
-      <description lang="en">XXXXXX</description>
+      <description lang="en">A repository just for Vulkan stuff for Gentoo</description>
       <homepage>https://github.com//xxxx</homepage>
       <owner type="person">
         <email>TeaFor2Heavy@protonmail.com</email>
