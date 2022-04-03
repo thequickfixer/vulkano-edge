@@ -8,4 +8,4 @@ Gentoo Repository using the GPL-3.0 License
 
 # Repository Info
 
-- Anything Vulkan related besides Vulkan-Headers and Vulkan-loader will not be found here unless it's pushed
+- Anything Vulkan related besides Vulkan-headers and Vulkan-loader will not be found here unless it's pushed
