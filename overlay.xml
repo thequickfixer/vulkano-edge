@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+<repo quality="experimental" status="unofficial">
+      <name>XXXXX</name>
+      <description lang="en">XXXXXX</description>
+      <homepage>https://github.com/XXXX/xxxx</homepage>
+      <owner type="person">
+        <email>XXXXX</email>
+        <name>XXXXX</name>
+      </owner>
+      <source type="git">https://github.com/XXXX/xxxx.git</source>
+      <source type="git">git+ssh://git@github.com/XXXX/xxxx.git</source>
+      <feed>https://github.com/XXXX/xxxx/commits/master.atom</feed>
+    </repo>
+</repo>
+</repositories>
