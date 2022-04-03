@@ -9,8 +9,8 @@
         <email>TeaFor2Heavy@protonmail.com</email>
         <name></name>
       </owner>
-      <source type="git">https://github.com/XXXX/xxxx.git</source>
-      <source type="git">git+ssh://git@github.com/XXXX/xxxx.git</source>
+      <source type="git">https://github.com/thequickfixer/vulkano-edge.git</source>
+      <source type="git">git+ssh://git@github.com/thequickfixer/vulkano-edge.git</source>
       <feed>https://github.com/thequickfixer/vulkano-edge/commits/stable.atom</feed>
     </repo>
 </repo>
