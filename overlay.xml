@@ -6,12 +6,12 @@
       <description lang="en">XXXXXX</description>
       <homepage>https://github.com/XXXX/xxxx</homepage>
       <owner type="person">
-        <email>XXXXX</email>
-        <name>XXXXX</name>
+        <email>TeaFor2Heavy@protonmail.com</email>
+        <name></name>
       </owner>
       <source type="git">https://github.com/XXXX/xxxx.git</source>
       <source type="git">git+ssh://git@github.com/XXXX/xxxx.git</source>
-      <feed>https://github.com/XXXX/xxxx/commits/master.atom</feed>
+      <feed>https://github.com/thequickfixer/vulkano-edge/commits/stable.atom</feed>
     </repo>
 </repo>
 </repositories>
