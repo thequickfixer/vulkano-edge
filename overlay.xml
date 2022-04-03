@@ -2,9 +2,9 @@
 <!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
 <repositories xmlns="" version="1.0">
 <repo quality="experimental" status="unofficial">
-      <name>XXXXX</name>
+      <name>vulkano-edge</name>
       <description lang="en">XXXXXX</description>
-      <homepage>https://github.com/XXXX/xxxx</homepage>
+      <homepage>https://github.com//xxxx</homepage>
       <owner type="person">
         <email>TeaFor2Heavy@protonmail.com</email>
         <name></name>
