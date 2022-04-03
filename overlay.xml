@@ -4,7 +4,7 @@
 <repo quality="experimental" status="unofficial">
       <name>vulkano-edge</name>
       <description lang="en">A repository just for Vulkan stuff for Gentoo</description>
-      <homepage>https://github.com//thequickfixer/vulkano-edge</homepage>
+      <homepage>https://github.com/thequickfixer/vulkano-edge</homepage>
       <owner type="person">
         <email>TeaFor2Heavy@protonmail.com</email>
         <name></name>
