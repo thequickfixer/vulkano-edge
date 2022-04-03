@@ -1,6 +1,6 @@
 # Vulkano-edge
 
-Gentoo Vulkan Repository using the GPL-3.0 License
+Gentoo Vulkan Repository using the GPL-3.0 License (ATTENTION THIS REPO IS BROKEN DUE TO NO MANIFESTS!!)
 
 # Information
 
