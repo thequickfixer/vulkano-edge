@@ -1,6 +1,6 @@
 # Vulkano-edge
 
-A Gentoo Vulkan Repository using the GPL-3.0 License.
+A Gentoo Vulkan Repository
 
 # Information
 
@@ -11,7 +11,7 @@ A Gentoo Vulkan Repository using the GPL-3.0 License.
 - Anything Vulkan related besides Vulkan-headers and Vulkan-loader will not be found here unless it's pushed.
 - This repo will be always try to be updated to the latest, trying to have all versions for compatibility.
 
-# How to install
+# How to install locally
 
 Add this into /etc/portage/repos.conf/vulkano-edge.conf:
 
@@ -25,4 +25,6 @@ auto-sync = yes
 ```
 Afterwards run:
 
-```sudo emaint sync -r vulkano-edge```
+```
+sudo emaint sync --repo vulkano-edge
+```
