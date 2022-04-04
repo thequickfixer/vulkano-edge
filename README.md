@@ -28,3 +28,5 @@ Afterwards run:
 ```
 sudo emaint sync --repo vulkano-edge
 ```
+
+After that doing an ```emerge --sync``` should update the repo
