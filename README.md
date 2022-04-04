@@ -30,9 +30,11 @@ sudo emaint sync --repo vulkano-edge
 ```
 # How to install using layman
 
-Add vulkano-edge as a repository:
+Update layman repos and add vulkano-edge as a repository:
 
 ```
+sudo layman -f
+
 sudo layman -a vulkano-edge
 ```
 
