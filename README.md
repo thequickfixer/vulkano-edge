@@ -10,3 +10,14 @@ A Gentoo Vulkan Repository using the GPL-3.0 License.
 
 - Anything Vulkan related besides Vulkan-headers and Vulkan-loader will not be found here unless it's pushed.
 - This repo will be always try to be updated to the latest, trying to have all versions for compatibility.
+
+# How to install
+
+```
+[vulkano-edge]
+location = /usr/local/portage/AlexandreFournier
+sync-type = git
+sync-uri = 
+masters = gentoo
+auto-sync = yes
+```
