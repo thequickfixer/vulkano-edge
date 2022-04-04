@@ -46,7 +46,7 @@ sudo emerge --ask =dev-util/vulkan-headers-1.3.209
 For specifically this repo:
 
 ```
-sudo emerge --ask =dev-util/vulkan-loader-1.3.209::vulkano-edge
+sudo emerge --ask =dev-util/vulkan-headers-1.3.209::vulkano-edge
 ```
 # Notes
 
