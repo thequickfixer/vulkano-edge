@@ -1,7 +1,7 @@
 # Vulkano-edge
 
 A Gentoo Vulkan Repository
-- USE AT YOUR OWN RISK
+- USE AT YOUR OWN RISK (Not verified by Gentoo Devs, will git push soon)
 
 # Information
 
