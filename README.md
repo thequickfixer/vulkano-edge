@@ -34,7 +34,6 @@ Update layman repos and add vulkano-edge as a repository:
 
 ```
 sudo layman -f
-
 sudo layman -a vulkano-edge
 ```
 
