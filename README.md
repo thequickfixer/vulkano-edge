@@ -23,6 +23,6 @@ sync-uri =
 masters = gentoo
 auto-sync = yes
 ```
-Afterwards run
+Afterwards run:
 
 ```emaint sync -r steam-overlay```
