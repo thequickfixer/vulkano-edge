@@ -30,4 +30,6 @@ Afterwards run:
 sudo emaint sync --repo vulkano-edge
 ```
 
-After that doing an ```emerge --sync``` should update the repo when updating gentoo
+Notes:
+
+- Doing a ```emerge --sync``` should update the repo when updating gentoo
