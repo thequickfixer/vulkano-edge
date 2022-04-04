@@ -13,11 +13,16 @@ A Gentoo Vulkan Repository using the GPL-3.0 License.
 
 # How to install
 
+Add this into /etc/portage/repos.conf/vulkano-edge.conf:
+
 ```
 [vulkano-edge]
 location = /usr/local/portage/
 sync-type = git
-sync-uri = 
+sync-uri =
 masters = gentoo
 auto-sync = yes
 ```
+Afterwards run
+
+```emaint sync -r steam-overlay```
