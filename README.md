@@ -25,4 +25,4 @@ auto-sync = yes
 ```
 Afterwards run:
 
-```sudo emaint sync -r vulkano-edge```
+```sudo emaint sync --repo vulkano-edge```
