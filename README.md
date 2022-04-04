@@ -19,10 +19,10 @@ Add this into /etc/portage/repos.conf/vulkano-edge.conf:
 [vulkano-edge]
 location = /usr/local/portage/
 sync-type = git
-sync-uri =
+sync-uri = https://github.com/thequickfixer/vulkano-edge.git
 masters = gentoo
 auto-sync = yes
 ```
 Afterwards run:
 
-```emaint sync -r steam-overlay```
+```sudo emaint sync -r steam-overlay```
