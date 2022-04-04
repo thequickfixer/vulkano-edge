@@ -8,7 +8,7 @@
     <owner type="person">
       <email>TeaFor2Heavy@protonmail.com</email>
     </owner>
-    <source type="git">git://github.com/thequickfixer/vulkano-edge.git</source>
+    <source type="git">https://github.com/thequickfixer/vulkano-edge.git</source>
     <feed>https://github.com/thequickfixer/vulkano-edge/commits/stable.atom</feed>
   </repo>
 </repositories>
