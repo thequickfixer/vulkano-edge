@@ -48,6 +48,7 @@ For specifically this repo for whatever reason:
 ```
 sudo emerge --ask =dev-util/vulkan-headers-1.3.209::vulkano-edge
 ```
+
 # Notes
 
 - Doing a ```emerge --sync``` should update the repo when updating gentoo
