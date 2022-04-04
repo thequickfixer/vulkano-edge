@@ -37,7 +37,7 @@ sudo layman -f && sudo layman -a vulkano-edge
 ```
 # How to emerge a version before v1.3.210
 
-A example:
+An example:
 
 ```
 sudo emerge --ask =dev-util/vulkan-headers-1.3.209
