@@ -28,7 +28,14 @@ Afterwards run:
 ```
 sudo emaint sync --repo vulkano-edge
 ```
+# How to install using layman
 
-Notes:
+Layman may or maynot be working due to gentoo's database being updated since this repo is new
+
+```
+sudo layman -a vulkano-edge
+```
+
+# Notes
 
 - Doing a ```emerge --sync``` should update the repo when updating gentoo
