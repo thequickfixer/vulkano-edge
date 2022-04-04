@@ -17,7 +17,7 @@ Add this into /etc/portage/repos.conf/vulkano-edge.conf:
 
 ```
 [vulkano-edge]
-location = /usr/local/portage/
+location = /var/db/repos/vulkano-edge
 sync-type = git
 sync-uri = https://github.com/thequickfixer/vulkano-edge.git
 masters = gentoo
