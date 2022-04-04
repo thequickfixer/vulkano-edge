@@ -35,7 +35,19 @@ Update layman repos and add vulkano-edge as a repository:
 ```
 sudo layman -f && sudo layman -a vulkano-edge
 ```
+# How to emerge a version before v1.3.210
 
+A example:
+
+```
+sudo emerge --ask =dev-util/vulkan-headers-1.3.209
+```
+
+For specifically this repo:
+
+```
+sudo emerge --ask =dev-util/vulkan-loader-1.3.209::vulkano-edge
+```
 # Notes
 
 - Doing a ```emerge --sync``` should update the repo when updating gentoo
