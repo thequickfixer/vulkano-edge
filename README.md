@@ -1,11 +1,11 @@
 # Vulkano-edge
 
 A Gentoo Vulkan Repository
+- USE AT YOUR OWN RISK
 
 # Information
 
 - Vulkan v1.3.210 has new extentions. To run those extentions check to see if your driver supports it.
-- USE AT YOUR OWN RISK
 
 # Repository Info
 
