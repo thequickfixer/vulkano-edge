@@ -2,7 +2,7 @@
 <!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
 <repositories xmlns="" version="1.0">
   <repo quality="experimental" status="unofficial">
-    <description lang="en"></description>
+    <description lang="en">A repository just for Vulkan stuff for Gentoo</description>
     <homepage>https://github.com/thequickfixer/vulkano-edge</homepage>
     <owner type="person">
       <email>TeaFor2Heavy@protonmail.com</email>
