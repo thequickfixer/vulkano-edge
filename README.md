@@ -43,7 +43,7 @@ A example:
 sudo emerge --ask =dev-util/vulkan-headers-1.3.209
 ```
 
-For specifically this repo:
+For specifically this repo for whatever reason:
 
 ```
 sudo emerge --ask =dev-util/vulkan-headers-1.3.209::vulkano-edge
