@@ -15,7 +15,7 @@ A Gentoo Vulkan Repository using the GPL-3.0 License.
 
 ```
 [vulkano-edge]
-location = /usr/local/portage/AlexandreFournier
+location = /usr/local/portage/
 sync-type = git
 sync-uri = 
 masters = gentoo
