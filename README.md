@@ -30,7 +30,7 @@ sudo emaint sync --repo vulkano-edge
 ```
 # How to install using layman
 
-Layman may or maynot be working due to gentoo's database being updated since this repo is new
+Add vulkano-edge as a repository:
 
 ```
 sudo layman -a vulkano-edge
