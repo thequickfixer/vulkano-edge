@@ -55,4 +55,4 @@ sudo emerge --ask =dev-util/vulkan-headers-1.3.209::vulkano-edge
 # Notes
 
 - Doing ```emerge --sync``` should update the repo when updating gentoo
-- For using an older package, Gentoo likes to update the package to the latest unless specified in ```/etc/portage/..``` for more information visit the [gentoo wiki](https://wiki.gentoo.org) to try and mitigate Gentoo from updating the package to v1.3.210
+- For using an older package, Gentoo likes to update the package to the latest unless specified in ```/etc/portage/..``` for more information visit the [gentoo wiki](https://wiki.gentoo.org) to try and mitigate Gentoo from updating the package to ```v1.3.210``` or later
