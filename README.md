@@ -11,7 +11,7 @@ Please check to see if your driver supports these new vulkan versions:
 
 For ```vulkan-loader-9999``` ebuild from the gentoo overlay, check to see if the latest is working:
 
-- [Vulkan-loader](https://github.com/KhronosGroup/Vulkan-Loader/actions)
+- [Vulkan-loader](https://github.com/KhronosGroup/Vulkan-Loader/actions) (filter by branch "master")
 
 To unmask the ```vulkan-loader-9999``` ebuild, [this should help](https://wiki.gentoo.org/wiki/Knowledge_Base:Missing_keywords_and_keyword_requests)
 
