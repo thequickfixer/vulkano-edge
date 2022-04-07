@@ -9,9 +9,9 @@ Please check to see if your driver supports these new vulkan versions:
 - Vulkan v1.3.210 has new extentions.
 - Vulkan v1.3.211 has additional new extentions.
 
-For ```Vulkan-loader-9999.ebuild``` check to see if their versions are working:
+For ```Vulkan-loader-9999.ebuild``` check to see if their latest version is working:
 
-- [Vulkan-loader](https://github.com/KhronosGroup/Vulkan-Loader/actions)
+- [Vulkan-loader actions](https://github.com/KhronosGroup/Vulkan-Loader/actions)
 
 # Repository Info
 
