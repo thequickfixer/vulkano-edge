@@ -9,6 +9,8 @@ Please check to see if your driver supports these new vulkan versions:
 - Vulkan v1.3.210 has new extentions.
 - Vulkan v1.3.211 has additional new extentions.
 
+Vulkan ```9999``` ebuilds added for people who want the absolute latest.
+
 # Repository Info
 
 - Anything Vulkan related besides Vulkan-headers and Vulkan-loader will not be found here unless it's pushed.
