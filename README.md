@@ -9,6 +9,12 @@ Please check to see if your driver supports these new vulkan versions:
 - Vulkan v1.3.210 has new extentions.
 - Vulkan v1.3.211 has additional new extentions.
 
+For ```Vulkan-loader-9999.ebuild``` from the gentoo overlay, check to see if the latest is working:
+
+- [Vulkan-loader](https://github.com/KhronosGroup/Vulkan-Loader/actions)
+
+To unmask the ```Vulkan-loader-9999.ebuild``` visit [the gentoo wiki](https://wiki.gentoo.org)
+
 # Repository Info
 
 - Anything Vulkan related besides Vulkan-headers and Vulkan-loader will not be found here unless it's pushed.
